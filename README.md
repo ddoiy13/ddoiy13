@@ -33,6 +33,5 @@ I build with Python and frontend, and I’m currently learning C++, Kotlin, and 
 <div align=center>
     
 [![ddoiy13's GitHub stats](https://github-stats-extended.vercel.app/api?username=ddoiy13)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended-nine-sand.vercel.app/api/top-langs/?username=ddoiy13&exclude_repo=prototype)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
