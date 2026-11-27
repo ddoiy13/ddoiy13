@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-I build with Python and frontend, and I’m currently learning C++, Kotlin, and Godot.
+I build with Python and frontend, and I’m currently learning Kotlin, Godot.
 </div>
 
 <br>
